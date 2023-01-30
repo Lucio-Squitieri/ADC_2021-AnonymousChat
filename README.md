@@ -67,7 +67,7 @@ Features added to the previous ones, that include:
 	    - interfaces/
               # AnonymousChat.java: interface with the sign of the methods for the implementation of this project
               # MessageListener.java: interface with the sign of the method to parse the received messages
-        - impls/
+        - implementation/
               # AnonymousChatI.java: class that implements the methods of the interface "AnonymousChat"
 	    
         # Main: Main class of this project
