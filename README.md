@@ -29,6 +29,7 @@ The system allows the users to create a new room, join in a room, leave a room, 
 [AnonymousChat Java API](https://github.com/spagnuolocarmine/distributedsystems-unisa/blob/master/homework/AnonymousChat.java)
 
 ## Basic Features
+
 The basic functions of the project were:
 
 1. Create a room;
