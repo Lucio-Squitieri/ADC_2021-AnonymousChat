@@ -28,7 +28,7 @@ Design and develop an anonymous chat API based on P2P Network. Each peer can sen
 The system allows the users to create a new room, join in a room, leave a room, and send messages. As described in the
 [AnonymousChat Java API](https://github.com/spagnuolocarmine/distributedsystems-unisa/blob/master/homework/AnonymousChat.java)
 
-## Basic features
+## Basic Features
 The basic functions of the project were:
 
 1. Create a room;
