@@ -3,6 +3,7 @@
 Project fot the exam of **Architetture Distribuite per il Cloud**
 
 Student: Squitieri Lucio 0522500984
+
 MD5:4d0f870ac018bc52a4c956409e7ff6a2
 
 # Index
