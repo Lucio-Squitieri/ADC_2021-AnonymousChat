@@ -9,7 +9,7 @@ MD5:4d0f870ac018bc52a4c956409e7ff6a2
 
 * [Introduction](#Introduction)
 * [Problem Statement](#Problem-Statement)
-* [Basic Features](#Basic Features)
+* [Basic Features](#Basic-Features)
 * [Additional Features](#Additional-Features)
 * [Deployment](#Deployment)
     * [Used technologies](#Used-technologies)
